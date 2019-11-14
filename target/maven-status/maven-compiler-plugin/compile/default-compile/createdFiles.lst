@@ -1,0 +1,8 @@
+cc\taber\spaceblock\CoreClass.class
+cc\taber\spaceblock\core\commands\CoreCommand.class
+cc\taber\spaceblock\core\CoreMain.class
+cc\taber\spaceblock\core\commands\general\CommandHeal.class
+cc\taber\spaceblock\core\database\events\OnJoinUser.class
+cc\taber\spaceblock\core\commands\planet\CreatePlanet.class
+cc\taber\spaceblock\general\GeneralMain.class
+cc\taber\spaceblock\core\database\MongoMain.class
