@@ -1,7 +1,0 @@
-name: SpaceBlock
-version: 2.1
-author: Sam Taber, Shane Paton, Sean Filimon, Joshua Hanson
-main: cc.taber.spaceblock.CoreClass
-commands:
-  spaceblock:
-    description: main cmd
