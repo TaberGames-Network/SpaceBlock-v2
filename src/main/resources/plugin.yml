@@ -1,0 +1,4 @@
+author: fuzzybot
+main: me.fuzzybot.spaceblock.bukkit.SpaceBlock
+name: SpaceBlock
+version: ${version}

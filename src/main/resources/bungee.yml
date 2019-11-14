@@ -1,0 +1,4 @@
+author: fuzzybot
+main: me.fuzzybot.spaceblock.bungee.SpaceBlock
+name: SpaceBlock
+version: ${version}
